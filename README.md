@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HarshitaKoshta
 - 👀 I’m interested in  open-source projects, and data structures
-- 🌱 I’m currently learning Java and DSA
+- 🌱 I’m currently exploring Java... 
 - 💞️ I’m looking to collaborate on projects or beginner-friendly open-source contributions
-- 📫 How to reach me : harshitakoshta2111@gmail.com
+- 📫 How to reach me : Email: harshitakoshta2111@gmail.com
 - 😄 Pronouns: She
 
 
