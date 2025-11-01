@@ -11,11 +11,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitaKoshta&show_icons=true&theme=radical)
-
----
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitaKoshta&theme=radical)
 
