@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @HarshitaKoshta
-- 👀 I’m interested in  open-source projects, and data structures
-- 🌱 I’m currently exploring DSA in Java and Web Developement 
-- 💞️ I’m looking to collaborate on projects or beginner-friendly open-source contributions
-- 📫 How to reach me : Email: harshitakoshta2111@gmail.com
-- 😄 Pronouns: She
+# 👋 Hi there, I'm Harshita Koshta  
 
+💻 **Learning Full stack | DSA Enthusiast | Python Learner**
 
-<!---
-HarshitaKoshta/HarshitaKoshta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms (DSA)  
+- Web Development (Frontend + Backend)  
+- Python  
+
+---
+
+## 📊 GitHub Stats
+![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitaKoshta&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitaKoshta&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=HarshitaKoshta&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaKoshta&layout=compact&theme=radical)
+
+---
+
+## ✨ About Me
+🌸 Passionate about coding, solving real-world problems, and continuous learning.  
+
+---
+
+⭐️ From [HarshitaKoshta](https://github.com/HarshitaKoshta)
