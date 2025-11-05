@@ -26,9 +26,18 @@
 
 ---
 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshitakoshta/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitakoshta2111@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
+---
+
 ## ✨ About Me
 🌸 Passionate about coding, solving real-world problems, and continuous learning.  
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=HarshitaKoshta&label=Profile%20views&color=0e75b6&style=flat)
 
 ⭐️ From [HarshitaKoshta](https://github.com/HarshitaKoshta)
