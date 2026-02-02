@@ -1,41 +1,55 @@
 # 👋 Hi there, I'm Harshita Koshta  
 
-💻 **Learning Full stack | DSA Enthusiast | Python Learner**
+💻 **Full Stack Learner** | **DSA Enthusiast** | **Python & TypeScript Learner**
 
 ---
 
 ## 🌱 Currently Learning
-- Data Structures & Algorithms (DSA)  
-- Web Development (Frontend + Backend)  
-- Python  
+- 📊 Data Structures & Algorithms (DSA)  
+- 🌐 Web Development (Frontend + Backend)  
+- 🐍 Python  
+- ⚡ TypeScript  
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitaKoshta&theme=radical)
+## 🧠 What I'm Working On
+- 💡 Strengthening problem-solving skills through DSA  
+- 🛠️ Building small projects to understand real-world applications  
+- 📚 Learning modern web technologies step by step  
+- 🚀 Improving code quality, logic, and consistency  
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=HarshitaKoshta&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 💻 Tech Stack
+- **Languages:** C++, Java, Python, TypeScript, JavaScript  
+- **Web:** HTML, CSS, React (Learning)  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaKoshta&layout=compact&theme=radical)
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaKoshta&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshitakoshta/)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username/)
 
 ---
 
 ## ✨ About Me
-🌸 Passionate about coding, solving real-world problems, and continuous learning.  
+🌸 Passionate about coding, learning new technologies, and solving real-world problems.  
+🎯 Focused on continuous improvement and building a strong foundation in computer science.  
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=HarshitaKoshta&label=Profile%20views&color=0e75b6&style=flat)
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshitaKoshta&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
-⭐️ From [HarshitaKoshta](https://github.com/HarshitaKoshta)
+---
+
+⭐️ *From HarshitaKoshta*
