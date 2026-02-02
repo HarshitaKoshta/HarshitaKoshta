@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Harshita Koshta  
 
-💻 **Full Stack Learner** | **DSA Enthusiast** | **Python & TypeScript Learner**
+💻 **Full Stack Learner** | **DSA Enthusiast**
 
 ---
 
@@ -21,21 +21,15 @@
 ---
 
 ## 💻 Tech Stack
-- **Languages:** C++, Java, Python, TypeScript, JavaScript  
+- **Languages:** Java, Python,JavaScript  
 - **Web:** HTML, CSS, React (Learning)  
 - **Tools:** Git, GitHub, VS Code  
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaKoshta&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username/)
+- 💼 LinkedIn: https://www.linkedin.com/in/harshita-koshta-a045b329b/
 
 ---
 
