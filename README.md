@@ -8,7 +8,7 @@
 - 📊 Data Structures & Algorithms (DSA)  
 - 🌐 Web Development (Frontend + Backend)  
 - 🐍 Python  
-- ⚡ TypeScript  
+  
 
 ---
 
