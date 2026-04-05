@@ -7,7 +7,6 @@
 ## 🌱 Currently Learning
 - 📊 Data Structures & Algorithms (DSA)  
 - 🌐 Web Development (Frontend + Backend)  
-- 🐍 Python  
   
 
 ---
